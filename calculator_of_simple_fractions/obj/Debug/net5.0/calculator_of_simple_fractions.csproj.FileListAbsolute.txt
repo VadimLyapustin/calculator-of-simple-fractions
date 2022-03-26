@@ -1,0 +1,16 @@
+E:\c#\calculator_of_simple_fractions\calculator_of_simple_fractions\bin\Debug\net5.0\calculator_of_simple_fractions.exe
+E:\c#\calculator_of_simple_fractions\calculator_of_simple_fractions\bin\Debug\net5.0\calculator_of_simple_fractions.deps.json
+E:\c#\calculator_of_simple_fractions\calculator_of_simple_fractions\bin\Debug\net5.0\calculator_of_simple_fractions.runtimeconfig.json
+E:\c#\calculator_of_simple_fractions\calculator_of_simple_fractions\bin\Debug\net5.0\calculator_of_simple_fractions.runtimeconfig.dev.json
+E:\c#\calculator_of_simple_fractions\calculator_of_simple_fractions\bin\Debug\net5.0\calculator_of_simple_fractions.dll
+E:\c#\calculator_of_simple_fractions\calculator_of_simple_fractions\bin\Debug\net5.0\ref\calculator_of_simple_fractions.dll
+E:\c#\calculator_of_simple_fractions\calculator_of_simple_fractions\bin\Debug\net5.0\calculator_of_simple_fractions.pdb
+E:\c#\calculator_of_simple_fractions\calculator_of_simple_fractions\obj\Debug\net5.0\calculator_of_simple_fractions.csproj.AssemblyReference.cache
+E:\c#\calculator_of_simple_fractions\calculator_of_simple_fractions\obj\Debug\net5.0\calculator_of_simple_fractions.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\calculator_of_simple_fractions\calculator_of_simple_fractions\obj\Debug\net5.0\calculator_of_simple_fractions.AssemblyInfoInputs.cache
+E:\c#\calculator_of_simple_fractions\calculator_of_simple_fractions\obj\Debug\net5.0\calculator_of_simple_fractions.AssemblyInfo.cs
+E:\c#\calculator_of_simple_fractions\calculator_of_simple_fractions\obj\Debug\net5.0\calculator_of_simple_fractions.csproj.CoreCompileInputs.cache
+E:\c#\calculator_of_simple_fractions\calculator_of_simple_fractions\obj\Debug\net5.0\calculator_of_simple_fractions.dll
+E:\c#\calculator_of_simple_fractions\calculator_of_simple_fractions\obj\Debug\net5.0\ref\calculator_of_simple_fractions.dll
+E:\c#\calculator_of_simple_fractions\calculator_of_simple_fractions\obj\Debug\net5.0\calculator_of_simple_fractions.pdb
+E:\c#\calculator_of_simple_fractions\calculator_of_simple_fractions\obj\Debug\net5.0\calculator_of_simple_fractions.genruntimeconfig.cache
